@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'users-list';
+  typesOfShoes: string[] = ['Test', 'Boots', 'Clogs', 'Loafers', 'Moccasins', 'Sneakers'];
 }
